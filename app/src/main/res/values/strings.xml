@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pr8</string>
+    <string name="textCount">Итого проверено примеров</string>
+    <string name="textNumberCount">0</string>
+    <string name="textCorrect">Правильно</string>
+    <string name="textNumberCorrect">0</string>
+    <string name="textNotCorrect">Не правильно</string>
+    <string name="textNumberNotCorrect">0</string>
+    <string name="textTime">ВРЕМЯ (Сек)</string>
+    <string name="textMax">Максимум</string>
+    <string name="textNumberMax">0</string>
+    <string name="textMin">Минимум</string>
+    <string name="textNumberMin">0</string>
+    <string name="textAvg">Среднее</string>
+    <string name="textNumberAvg">0.00</string>
+    <string name="textPercent">0.00%</string>
+    <string name="textFirstOperand">00</string>
+    <string name="textSecondOperand">00</string>
+    <string name="textOperator">+</string>
+    <string name="textEqual">=</string>
+    <string name="textAnswer">00</string>
+    <string name="textAnswerCorrect">Верно</string>
+    <string name="textAnswerNotCorrect">Неверно</string>
+    <string name="textStart">Старт</string>
+</resources>
